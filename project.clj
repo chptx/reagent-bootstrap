@@ -1,6 +1,6 @@
-(defproject reagent-bootstrap "0.0.1"
+(defproject me.chptx/reagent-bootstrap "0.0.3"
   :description "Reagent wrapper for React Bootstrap"
-  :url ""
+  :url "http://github.com/chptx/reagent-bootstrap"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :clojurescript? true
